@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appId": "1629830228.com.14digital.L2Mpodcost",
+        "paths": ["NOT /_/*","/*"]
+      }
+    ]
+  }
+}
