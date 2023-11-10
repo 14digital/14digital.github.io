@@ -6,13 +6,5 @@
     "sha256_cert_fingerprints":
     ["CA:DC:9F:86:D7:FA:03:A5:A8:46:F1:A1:F0:D0:B4:05:65:DA:DD:22:91:44:E8:FE:E4:F9:48:25:29:69:B7:1A"]
   }
-},
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.halal.haram.ingredients",
-    "sha256_cert_fingerprints":
-    ["CA:DC:9F:86:D7:FA:03:A5:A8:46:F1:A1:F0:D0:B4:05:65:DA:DD:22:91:44:E8:FE:E4:F9:48:25:29:69:B7:1A"]
-  }
+}
 }]
