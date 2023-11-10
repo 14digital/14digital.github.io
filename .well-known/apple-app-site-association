@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appId": "SPULB4LF24.com.14digital.L2Mpodcost",
-        "paths": ["/users/*" ]
+        "appID": "SPULB4LF24.com.14digital.L2Mpodcost",
+        "paths": ["*"]
       }
     ]
   }
